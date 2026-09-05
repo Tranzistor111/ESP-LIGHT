@@ -27,7 +27,8 @@
 
 ## 🔌 Схема подключения
 
-![Схема подключения ESP-LIGHT](docs/schematic.png)
+![Схема подключения ESP-LIGHT](<img width="1080" height="584" alt="WhatsApp Image 2026-09-05 at 11 20 39" src="https://github.com/user-attachments/assets/e720f86b-ddaf-452b-829a-a270bc307726" />
+)
 
 > Схема собрана в Fritzing. Подключение кнопок и светодиодов осуществляется к цифровым пинам Wemos D1 Mini.
 
