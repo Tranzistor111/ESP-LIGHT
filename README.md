@@ -28,11 +28,6 @@
 ## 🔌 Схема подключения
 
 <img width="1080" height="584" alt="WhatsApp Image 2026-09-05 at 11 20 39" src="https://github.com/user-attachments/assets/5a3f257d-f0f1-4b82-b232-d11b52b7cebd" />
--- ВСТАВЬ СЮДА ФОТО СХЕМЫ -->
-<!-- Пример: ![Схема подключения](docs/schematic.png) -->
-<!-- Или просто перетащи фото прямо сюда в редакторе GitHub -->
-
-> Схема собрана в Fritzing. Подключение кнопок и светодиодов осуществляется к цифровым пинам Wemos D1 Mini.
 
 ### Основные соединения:
 - **WS2812 (DIN)** → пин D4 (GPIO2) Wemos D1 Mini
